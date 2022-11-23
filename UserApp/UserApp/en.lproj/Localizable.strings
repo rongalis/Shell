@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  UserApp
+
+  Created by srikanth on 10/31/22.
+  
+*/
+
+"Users_Button_Title" = "Display Users";
+"Name_Label" =  "Name: ";
+"Email_Label" =  "Email: ";
+"Address_Label" =  "Address: ";
+"Nav_Title_Users" = "All Users";
+"Nav_Title_Home" = "Home";
